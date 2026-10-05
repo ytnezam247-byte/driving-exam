@@ -1,0 +1,7 @@
+{
+  "name": "TVDE Teste - Simulador Oficial de Exame",
+  "description": "Simulador oficial de exames teóricos de condução TVDE em Portugal com base nos questionários oficiais do IMT e da Lei n.º 45/2018.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
